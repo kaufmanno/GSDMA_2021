@@ -49,8 +49,7 @@ Author
 O. KAUFMANN  
 
 Contributors
-""""""""""""
-M. VAN TRIMPONT  
+"""""""""""" 
 
 .. toctree::
    :maxdepth: 1
