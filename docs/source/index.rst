@@ -50,7 +50,7 @@ O. KAUFMANN
 
 Contributors
 """"""""""""
-Be the first one...  
+M. VAN TRIMPONT  
 
 .. toctree::
    :maxdepth: 1
