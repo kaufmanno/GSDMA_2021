@@ -50,6 +50,7 @@ O. KAUFMANN
 
 Contributors
 """""""""""" 
+F. CAMUS
 
 .. toctree::
    :maxdepth: 1
