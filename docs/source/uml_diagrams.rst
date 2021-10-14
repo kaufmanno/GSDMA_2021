@@ -11,4 +11,3 @@ UML diagrams
    :maxdepth: 1
    :caption: Packages
 
-   Packages GSDMA_2021<uml/packages_uml_GSDMA_2021.rst>

@@ -1,5 +1,4 @@
 digraph "classes_uml_GSDMA_2021" {
-rankdir=BT
 charset="utf-8"
-"GSDMA_2021.core.FakeClass" [color="black", fontcolor="black", label="{FakeClass|name : NoneType, str\l|display(text)\l}", shape="record", style="solid"];
+rankdir=BT
 }
