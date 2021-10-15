@@ -1,0 +1,5 @@
+digraph "classes_uml_core" {
+rankdir=BT
+charset="utf-8"
+"core.core.FakeClass" [color="black", fontcolor="black", label="{FakeClass|name : str, NoneType\l|display(text)\l}", shape="record", style="solid"];
+}
