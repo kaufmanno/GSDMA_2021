@@ -17,6 +17,7 @@ sphinx-gallery = "*"
 nbsphinx = "*"
 pylint = "*"
 pytest = "*"
+geopandas = "*"
 
 [requires]
 python_version = "3.8"

@@ -1,1 +1,1 @@
-GSDMA_2021
+core
