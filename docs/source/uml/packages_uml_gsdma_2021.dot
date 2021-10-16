@@ -3,6 +3,4 @@ rankdir=BT
 charset="utf-8"
 "gsdma_2021" [color="black", label="gsdma_2021", shape="box", style="solid"];
 "gsdma_2021.core" [color="black", label="gsdma_2021.core", shape="box", style="solid"];
-"gsdma_2021.core.core" [color="black", label="gsdma_2021.core.core", shape="box", style="solid"];
-"gsdma_2021.core" -> "gsdma_2021.core" [arrowhead="open", arrowtail="none"];
 }
