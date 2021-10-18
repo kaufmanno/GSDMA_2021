@@ -7,7 +7,7 @@ Submodules
 GSDMA_2021.core module
 --------------------------------
 
-.. automodule:: GSDMA_2021.core
+.. automodule:: gsdma_2021.core
    :members:
    :undoc-members:
    :show-inheritance:

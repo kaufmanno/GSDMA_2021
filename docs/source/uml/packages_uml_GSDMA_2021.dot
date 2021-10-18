@@ -1,7 +1,0 @@
-digraph "packages_uml_GSDMA_2021" {
-rankdir=BT
-charset="utf-8"
-"GSDMA_2021" [color="black", label="GSDMA_2021", shape="box", style="solid"];
-"GSDMA_2021.core" [color="black", label="GSDMA_2021.core", shape="box", style="solid"];
-"GSDMA_2021" -> "GSDMA_2021.core" [arrowhead="open", arrowtail="none"];
-}

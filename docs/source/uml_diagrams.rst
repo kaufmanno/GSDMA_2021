@@ -5,10 +5,10 @@ UML diagrams
    :maxdepth: 1
    :caption: Classes
 
-   Classes GSDMA_2021<uml/classes_uml_GSDMA_2021.rst>
+   Classes gsdma_2021<uml/classes_uml_gsdma_2021.rst>
 
 .. toctree::
    :maxdepth: 1
    :caption: Packages
 
-   Packages GSDMA_2021<uml/packages_uml_GSDMA_2021.rst>
+   Packages gsdma_2021<uml/packages_uml_gsdma_2021.rst>

@@ -15,11 +15,13 @@ sphinx = "*"
 sphinx-rtd-theme = "*"
 sphinx-gallery = "*"
 nbsphinx = "*"
-pylint = "*"
+pylint = "==2.11.1"
 pytest = "*"
 descartes = "*"
 geopandas = "*"
-geometron = "*"
+geometron = "==0.0.3.dev2"
+
+
 
 [requires]
 python_version = "3.8"
