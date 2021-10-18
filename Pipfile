@@ -19,9 +19,8 @@ pylint = "==2.11.1"
 pytest = "*"
 descartes = "*"
 geopandas = "*"
-geometron = "==0.0.3.dev2"
-
-
+geometron = "==0.0.3"
+panel = "*"
 
 [requires]
 python_version = "3.8"
