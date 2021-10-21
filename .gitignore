@@ -1,5 +1,7 @@
 docs/source/examples/tmp_files/
 .idea
+.gpkg-shm
+.gpkg-wal
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
