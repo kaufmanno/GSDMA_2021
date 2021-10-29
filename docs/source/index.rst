@@ -48,9 +48,9 @@ Function
 """"""""
 * drawing geometries from polydata or unstructured grid
 
-[[from unstrured grid]]:https://github.com/kaufmanno/gsdma_2021/blob/26d6fbc10b904bb157e34672c0b50a5b3f0d5a6c/docs/source/examples/basic/First%20trial%20at%20displaying%20a%20shaft%20created%20with%20gdf_to_ug.ipynb
+[from unstrured grid]:https://github.com/kaufmanno/gsdma_2021/blob/26d6fbc10b904bb157e34672c0b50a5b3f0d5a6c/docs/source/examples/basic/First%20trial%20at%20displaying%20a%20shaft%20created%20with%20gdf_to_ug.ipynb
 
-[[from polydata]]:https://github.com/kaufmanno/gsdma_2021/blob/cfa1279945b5f671aee04922318ba1f412c7b583/docs/source/examples/basic/First%20trial%20at%20displaying%20a%20shaft%20created%20with%20gdf_to_ug.ipynb
+[from polydata]:https://github.com/kaufmanno/gsdma_2021/blob/cfa1279945b5f671aee04922318ba1f412c7b583/docs/source/examples/basic/First%20trial%20at%20displaying%20a%20shaft%20created%20with%20gdf_to_ug.ipynb
 
 
 Author
