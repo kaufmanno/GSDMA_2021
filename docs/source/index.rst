@@ -31,7 +31,7 @@ Documentation
 About
 """""
 
-GSDMA_2021 is {...}.
+GSDMA_2021 is a school project that represents a coal mine. Shafts and galeries are drawn in a 3D interface
 
 * {@@@ Include main descriptors of GSDMA_2021 here}
 * {@@@ For example what it does}
