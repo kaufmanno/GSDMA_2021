@@ -7,7 +7,7 @@ Documentation
 .. raw:: html
 
     <div class="banner">
-        <h2>{@@@ A relevant title giving a short description of the purpose of GSDMA_2021} </h2>
+        <h2>Representation of galeries and shaft of an old coal mine  </h2>
         <a href="./examples/index.html"><img src="_static/banner_small.png" alt="GSDMA_2021" width="100%"/></a>
     </div>
 
@@ -31,7 +31,7 @@ Documentation
 About
 """""
 
-GSDMA_2021 is {...}.
+GSDMA_2021 is GSDMA_2021 is a school project that represents a coal mine. Shafts and galeries are drawn in a 3D interface.
 
 * {@@@ Include main descriptors of GSDMA_2021 here}
 * {@@@ For example what it does}
