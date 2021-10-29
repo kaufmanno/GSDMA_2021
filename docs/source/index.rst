@@ -31,7 +31,7 @@ Documentation
 About
 """""
 
-GSDMA_2021 is GSDMA_2021 is a school project that represents a coal mine. Shafts and galeries are drawn in a 3D interface.
+GSDMA_2021 is a school project that represents a coal mine. Shafts and galeries are drawn in a 3D interface.
 
 * {@@@ Include main descriptors of GSDMA_2021 here}
 * {@@@ For example what it does}
@@ -46,11 +46,22 @@ This package can be used for {...}.
 
 Function
 """"""""
-* drawing geometries from polydata or unstructured grid
+* Drawing geometries from polydata or unstructured grid
 
-[from unstrured grid](//github.com/kaufmanno/gsdma_2021/blob/26d6fbc10b904bb157e34672c0b50a5b3f0d5a6c/docs/source/examples/basic/First%20trial%20at%20displaying%20a%20shaft%20created%20with%20gdf_to_ug.ipynb)
+    `A line from unstructured grid <https://github.com/kaufmanno/gsdma_2021/blob/26d6fbc10b904bb157e34672c0b50a5b3f0d5a6c/docs/source/examples/basic/First%20trial%20at%20displaying%20a%20shaft%20created%20with%20gdf_to_ug.ipynb>`_
 
-[from polydata]:https://github.com/kaufmanno/gsdma_2021/blob/cfa1279945b5f671aee04922318ba1f412c7b583/docs/source/examples/basic/First%20trial%20at%20displaying%20a%20shaft%20created%20with%20gdf_to_ug.ipynb
+    `A line from polydata <https://github.com/kaufmanno/gsdma_2021/blob/cfa1279945b5f671aee04922318ba1f412c7b583/docs/source/examples/basic/First%20trial%20at%20displaying%20a%20shaft%20created%20with%20gdf_to_ug.ipynb>`_
+
+
+* Meshing geometry
+
+   `A meshed polygon <https://github.com/kaufmanno/gsdma_2021/blob/develop/docs/source/examples/basic/Second%20trial%20at%20displaying%20a%20coal%20seam%20using%20a%20PolyData.ipynb>`_
+
+
+* Drawing polygon in 3D
+
+   `A 3D representation <https://github.com/kaufmanno/gsdma_2021/blob/develop/docs/source/examples/basic/Third%20trial%20at%20displaying%20a%20coal%20seam%20using%20a%20PolyData.ipynb>`_
+
 
 
 Author
