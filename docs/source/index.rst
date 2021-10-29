@@ -46,15 +46,15 @@ This package can be used for {...}.
 
 Author
 """"""
-O. KAUFMANN  
+O KAUFMANN  
 
 Contributors
 """""""""""" 
-F. CAMUS 
+F CAMUS 
 
-M. VAN TRIMPONT
+M VAN TRIMPONT
 
-J. LELEUX
+J LELEUX
 
 
 .. toctree::
