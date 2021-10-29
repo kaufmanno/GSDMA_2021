@@ -44,6 +44,11 @@ This package provides a Pythonic, well-documented interface exposing
 
 This package can be used for {...}.
 
+Function
+""""""""
+* drawing geometries from polydata or unstructured grid
+
+
 Author
 """"""
 O KAUFMANN  
