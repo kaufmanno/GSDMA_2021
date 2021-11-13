@@ -22,6 +22,11 @@ geopandas = "*"
 geometron = "==0.0.3"
 panel = "*"
 pyacvd = "*"
+pygmsh = "*"
+gempy = "*"
+pyvistaqt = "*"
+pyqt5 = "*"
+pygdal = "==3.0.4.*"
 
 [requires]
 python_version = "3.8"
