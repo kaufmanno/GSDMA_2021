@@ -29,6 +29,9 @@ gempy = "*"
 pyvistaqt = "*"
 pyqt5 = "*"
 pygdal = "==3.0.4.*"
+flopy = "*"
+pyshp = "*"
+netcdf4 = "*"
 
 [requires]
 python_version = "3.8"
