@@ -2,4 +2,7 @@
 #
 #
 # NLAY NROW NCOL NPER TIMEUNITS LENUNITS
-    16
+    16    100    100      1      1      2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+CONSTANT 10.0
+CONSTANT 10.0
