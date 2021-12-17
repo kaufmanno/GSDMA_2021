@@ -64,19 +64,6 @@ Function
 
 
 
-Author
-""""""
-O KAUFMANN  
-
-Contributors
-"""""""""""" 
-F CAMUS
-
-M VAN TRIMPONT  
-
-J LELEUX
-
-
 .. toctree::
    :maxdepth: 1
    :caption: General Introduction
@@ -104,6 +91,19 @@ J LELEUX
 
    modules<modules.rst>
    uml<uml_diagrams.rst>
+
+Author
+""""""
+O KAUFMANN  
+
+Contributors
+"""""""""""" 
+F CAMUS
+
+M VAN TRIMPONT  
+
+J LELEUX
+
 
 Indices and tables
 ==================
