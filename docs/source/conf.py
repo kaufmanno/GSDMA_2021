@@ -26,6 +26,7 @@ copyright = u'2021, O. KAUFMANN'
 
 author = u'O. KAUFMANN'
 
+nbsphinx_allow_errors = True
 
 # The short X.Y version
 version = VERSION
