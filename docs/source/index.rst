@@ -76,6 +76,7 @@ Function
    :caption: Getting Started
 
    Installation<installation.rst>
+   Prerequisites<prerequisites.rst>
    First Steps<first_steps.rst>
 
 .. toctree::

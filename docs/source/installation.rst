@@ -16,3 +16,9 @@ To view installed dependencies, see the
 Be aware that using *pipfile install* actually installs from the
 Pipfile.lock file. Use the –skip-lock option if you want to use the
 Pipfile instead.
+
+Install the different libraries with "pip install"
+*geopandas
+*pyvista
+*pyacd
+*numpy
