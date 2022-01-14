@@ -7,13 +7,8 @@ Documentation
 .. raw:: html
 
     <div class="banner">
-<<<<<<< HEAD
-        <h2>Representation of galeries and shaft of an old coal mine </h2>
-        <a href="./examples/index.html"><img src="_static/banner_small.png" alt="GSDMA_2021" width="100%"/></a>
-=======
         <h2>Representation of galeries, shafts and coal seams of an old coal mine  </h2>
        
->>>>>>> docs
     </div>
 
 .. |GPLv3| image:: https://img.shields.io/badge/License-GPLv3-blue.svg
@@ -33,46 +28,28 @@ Documentation
 
 
 
-<<<<<<< HEAD
-GSDMA_2021 is a school project that represents a coal mine. Shafts and galeries are drawn in a 3D interface
-=======
->>>>>>> docs
 
 Functions
 """""""""
 * Drawing elements of the model:
 
-    `Shafts <https://github.com/kaufmanno/gsdma_2021/blob/master/docs/source/examples/basic/Shafts-checkpoint.ipynb>`_
+    `Shafts <https://github.com/kaufmanno/gsdma_2021/blob/develop/docs/source/examples/basic/Shafts-checkpoint.ipynb>`_
 
-    `Galleries <https://github.com/kaufmanno/gsdma_2021/blob/master/docs/source/examples/basic/Galleries%20-%20Tube.ipynb>`_
+    `Galleries <https://github.com/kaufmanno/gsdma_2021/blob/develop/docs/source/examples/basic/Galleries%20-%20Tube.ipynb>`_
 
-    `Coal seams <https://github.com/kaufmanno/gsdma_2021/blob/master/docs/source/examples/basic/Coal%20Seams-checkpoint.ipynb>`_
+    `Coal seams <https://github.com/kaufmanno/gsdma_2021/blob/develop/docs/source/examples/basic/Coal%20Seams-checkpoint.ipynb>`_
 
 * Meshing coals seams
 
-    `Meshing a coal seam <https://github.com/kaufmanno/gsdma_2021/blob/master/docs/source/examples/basic/trial%20at%20meshing%20a%20coal%20seam%20using%20a%20PolyData.ipynb>`_
+    `Meshing a coal seam <https://github.com/kaufmanno/gsdma_2021/blob/develop/docs/source/examples/basic/trial%20at%20meshing%20a%20coal%20seam%20using%20a%20PolyData.ipynb>`_
 
 * Create model of surfaces with potential field méthod :
 
-    `Potentiel field method <https://github.com/kaufmanno/gsdma_2021/blob/bmaster/docs/source/examples/basic/potential_field__method.ipynb>`_
+    `Potentiel field method <https://github.com/kaufmanno/gsdma_2021/blob/develop/docs/source/examples/basic/potential_field__method.ipynb>`_
 
-    `Potentiel field method (2 layers) <https://github.com/kaufmanno/gsdma_2021/blob/master/docs/source/examples/basic/potential_field_method_2_layers_to_vtk.ipynb>`_
+    `Potentiel field method (2 layers) <https://github.com/kaufmanno/gsdma_2021/blob/develop/docs/source/examples/basic/potential_field_method_2_layers_to_vtk.ipynb>`_
 
-<<<<<<< HEAD
-Author
-""""""
-O KAUFMANN  
 
-Contributors
-"""""""""""" 
-F CAMUS 
-
-M VAN TRIMPONT
-
-J LELEUX
-=======
-
->>>>>>> docs
 
 
 .. toctree::
