@@ -33,19 +33,19 @@ Functions
 """""""""
 * Modeling elements of the model :
 
-    `Shafts <https://github.com/kaufmanno/gsdma_2021/blob/develop/docs/source/examples/basic/Shafts%20modeling.ipynb>`_
+    `Shafts <https://github.com/kaufmanno/gsdma_2021/blob/master/docs/source/examples/basic/Shafts%20modeling.ipynb>`_
 
-    `Galleries <https://github.com/kaufmanno/gsdma_2021/blob/develop/docs/source/examples/basic/Galleries%20modeling.ipynb>`_
+    `Galleries <https://github.com/kaufmanno/gsdma_2021/blob/master/docs/source/examples/basic/Galleries%20modeling.ipynb>`_
 
-    `Coal seams <https://github.com/kaufmanno/gsdma_2021/blob/develop/docs/source/examples/basic/Coal%20Seams%20modeling.ipynb>`_
+    `Coal seams <https://github.com/kaufmanno/gsdma_2021/blob/master/docs/source/examples/basic/Coal%20Seams%20modeling.ipynb>`_
 
 * Meshing coals seams :
 
-    `Meshing a coal seam <https://github.com/kaufmanno/gsdma_2021/blob/develop/docs/source/examples/basic/Meshing%20a%20coal%20seam.ipynb>`_
+    `Meshing a coal seam <https://github.com/kaufmanno/gsdma_2021/blob/master/docs/source/examples/basic/Meshing%20a%20coal%20seam.ipynb>`_
 
 * Creating model of surfaces with potential field méthod :
 
-    `Potentiel field method (2 layers) <https://github.com/kaufmanno/gsdma_2021/blob/develop/docs/source/examples/basic/potential%20field%20method%202%20layers.ipynb>`_
+    `Potentiel field method (2 layers) <https://github.com/kaufmanno/gsdma_2021/blob/master/docs/source/examples/basic/Potential%20field%20method%202%20layers.ipynb>`_
 
 
 
